@@ -1,12 +1,12 @@
 # Assignment 1 - Regression Models
 This repository is for Applied DS for Innovation,
 
-The Brief: 
+## The Brief: 
 In this assignment, we will tackle a regression problem. We will be working on a dataset consolidated from census data in the USA. The goal is to accurately predict cancer mortality based on information related to US counties.The dataset contains 33 different features (demography, medical information). 
 
 The metric used to assess model performance is MSE (mean squared error).
 
-Assignment:
+## Assignment:
 The assignment is composed of 4 different parts with specific scope and constraint:
 
 Part A: Experiment on univariate linear regression. You are allowed to pick only 2 features from the dataset and will train an univariate linear regression for each of them.
@@ -18,22 +18,23 @@ Part A to C: Experiment reports (in PDF or Word) based on the provided template 
 Part D: A final report detailing this project following the CRISP-DM methodology. The report should not exceed 1500 words.
 All assignments need to be submitted before the due date on Canvas. Penalties will be applied for late submission.
 
-Assessment Criteria:
+## Assessment Criteria:
 
 Quality of data exploration (visual + summary stats)
 Strength of justification for features selected and model used
 Quality of code and accuracy of results
 Appropriateness of the CRISP-DM framework usage
 Depth of discussion of ethics/privacy issues, value, benefits and recommendation for business
-Dataset:
+## Dataset:
 
 Training set: cancer_us_county-training.csv Links to an external site.
 Testing set: cancer_us_county-testing.csv Links to an external site.
-IMPORTANT NOTE:
+
+## IMPORTANT NOTE:
 
 You need to use your UTS email to access the data.
 
-Data Dictionary:
+## Data Dictionary:
 TARGET_deathRate: Dependent variable. Mean per capita (100,000) cancer mortalities(a)
 
 avgAnnCount: Mean number of reported cases of cancer diagnosed annually(a)
